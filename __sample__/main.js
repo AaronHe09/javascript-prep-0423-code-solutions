@@ -1,1 +1,1 @@
-console.log('Hello, Code Solutions!');
+console.log("I have added a script file via the src attribute!");
